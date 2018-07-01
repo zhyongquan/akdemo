@@ -2,7 +2,9 @@
 
 * Plantform: Visual Studio 2015
 * .NET Framework: 4.0
-* akdemo: 
+* akdemo
+
 ![Image](akdemo.png)
 * akserver: simulate AK server
+
 ![Image](akserver.png)
